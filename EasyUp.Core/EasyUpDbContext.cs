@@ -8,11 +8,16 @@ using System.Threading.Tasks;
 
 namespace EasyUp.Core
 {
-    class EasyUpDbContext : DbContext
+    public class EasyUpDbContext : DbContext
     {
         public DbSet<ContentType> ContentTypes { get; set; }
         public DbSet<DataType> DataTypes { get; set; }
         public DbSet<ContentField> ContentFields { get; set; }
         public DbSet<ContentFieldValue> ContentFieldValues { get; set; }
+
+        public EasyUpDbContext() : base("name=mainConnection")
+        {
+
+        }
     }
 }

@@ -1,1 +1,10 @@
 E:\GitHub\EasyUp\EasyUp.Core\obj\Debug\EasyUp.Core.csproj.CoreCompileInputs.cache
+E:\GitHub\EasyUp\EasyUp.Core\bin\Debug\EasyUp.Core.dll.config
+E:\GitHub\EasyUp\EasyUp.Core\bin\Debug\EasyUp.Core.dll
+E:\GitHub\EasyUp\EasyUp.Core\bin\Debug\EasyUp.Core.pdb
+E:\GitHub\EasyUp\EasyUp.Core\bin\Debug\EntityFramework.dll
+E:\GitHub\EasyUp\EasyUp.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\EasyUp\EasyUp.Core\bin\Debug\EntityFramework.xml
+E:\GitHub\EasyUp\EasyUp.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\EasyUp\EasyUp.Core\obj\Debug\EasyUp.Core.dll
+E:\GitHub\EasyUp\EasyUp.Core\obj\Debug\EasyUp.Core.pdb
