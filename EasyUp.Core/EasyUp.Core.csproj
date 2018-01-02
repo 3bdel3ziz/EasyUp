@@ -40,6 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ContentField.cs" />
+    <Compile Include="ContentFieldValue.cs" />
+    <Compile Include="ContentType.cs" />
+    <Compile Include="DataType.cs" />
+    <Compile Include="EasyUpDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
