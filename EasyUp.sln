@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyUp.Core", "EasyUp.Core\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyUp.Api", "EasyUp.Api\EasyUp.Api.csproj", "{ED7F17F8-1E74-4887-8F0B-CB4BFBB3AF29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyUp.IRepository", "EasyUp.IRepository\EasyUp.IRepository.csproj", "{2AEB5BDD-C825-4211-B1E8-55E88F8B2BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyUp.Repository", "EasyUp.Repository\EasyUp.Repository.csproj", "{309D1A1D-39D1-47B7-AE96-F180D6971F08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{ED7F17F8-1E74-4887-8F0B-CB4BFBB3AF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED7F17F8-1E74-4887-8F0B-CB4BFBB3AF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED7F17F8-1E74-4887-8F0B-CB4BFBB3AF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEB5BDD-C825-4211-B1E8-55E88F8B2BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEB5BDD-C825-4211-B1E8-55E88F8B2BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEB5BDD-C825-4211-B1E8-55E88F8B2BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEB5BDD-C825-4211-B1E8-55E88F8B2BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309D1A1D-39D1-47B7-AE96-F180D6971F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309D1A1D-39D1-47B7-AE96-F180D6971F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309D1A1D-39D1-47B7-AE96-F180D6971F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309D1A1D-39D1-47B7-AE96-F180D6971F08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

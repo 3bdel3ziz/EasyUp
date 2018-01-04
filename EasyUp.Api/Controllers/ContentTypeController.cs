@@ -1,4 +1,6 @@
 ﻿using EasyUp.Core;
+using EasyUp.IRepository;
+using EasyUp.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,20 +12,25 @@ namespace EasyUp.Api.Controllers
 {
     public class ContentTypeController : ApiController
     {
+        private IRepository<ContentType> _repository = null;
+
+        public ContentTypeController()
+        {
+            this._repository = new Repository<ContentType>();
+        }
+
         // GET api/values
         public string Get()
         {
             ContentType contentType = new ContentType();
 
-            contentType.Name = "News";
+            contentType.Name = "News22333";
             contentType.Code = "cd_news";
             contentType.Description = "";
             contentType.Icon = "";
 
-            EasyUpDbContext dbContext = new EasyUpDbContext();
-
-            dbContext.ContentTypes.Add(contentType);
-            dbContext.SaveChanges();
+            _repository.Insert(contentType);
+            _repository.Save();
 
             return contentType.Name;
         }

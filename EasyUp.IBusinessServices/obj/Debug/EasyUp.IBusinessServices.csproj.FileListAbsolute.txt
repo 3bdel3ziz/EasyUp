@@ -1,0 +1,8 @@
+E:\GitHub\EasyUp\EasyUp.IBusinessServices\bin\Debug\EasyUp.IBusinessServices.dll
+E:\GitHub\EasyUp\EasyUp.IBusinessServices\bin\Debug\EasyUp.IBusinessServices.pdb
+E:\GitHub\EasyUp\EasyUp.IBusinessServices\obj\Debug\EasyUp.IBusinessServices.csprojResolveAssemblyReference.cache
+E:\GitHub\EasyUp\EasyUp.IBusinessServices\obj\Debug\EasyUp.IBusinessServices.csproj.CoreCompileInputs.cache
+E:\GitHub\EasyUp\EasyUp.IBusinessServices\obj\Debug\EasyUp.IBusinessServices.dll
+E:\GitHub\EasyUp\EasyUp.IBusinessServices\obj\Debug\EasyUp.IBusinessServices.pdb
+E:\GitHub\EasyUp\EasyUp.IBusinessServices\bin\Debug\EasyUp.BusinessEntity.dll
+E:\GitHub\EasyUp\EasyUp.IBusinessServices\bin\Debug\EasyUp.BusinessEntity.pdb

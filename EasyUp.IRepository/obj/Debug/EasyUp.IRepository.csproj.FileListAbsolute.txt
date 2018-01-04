@@ -1,0 +1,6 @@
+E:\GitHub\EasyUp\EasyUp.IRepository\bin\Debug\EasyUp.IRepository.dll
+E:\GitHub\EasyUp\EasyUp.IRepository\bin\Debug\EasyUp.IRepository.pdb
+E:\GitHub\EasyUp\EasyUp.IRepository\obj\Debug\EasyUp.IRepository.csprojResolveAssemblyReference.cache
+E:\GitHub\EasyUp\EasyUp.IRepository\obj\Debug\EasyUp.IRepository.csproj.CoreCompileInputs.cache
+E:\GitHub\EasyUp\EasyUp.IRepository\obj\Debug\EasyUp.IRepository.dll
+E:\GitHub\EasyUp\EasyUp.IRepository\obj\Debug\EasyUp.IRepository.pdb

@@ -264,6 +264,14 @@
       <Project>{e6abaa9e-6192-40e3-845a-fdc08f74cd3f}</Project>
       <Name>EasyUp.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="..\EasyUp.IRepository\EasyUp.IRepository.csproj">
+      <Project>{2AEB5BDD-C825-4211-B1E8-55E88F8B2BD3}</Project>
+      <Name>EasyUp.IRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EasyUp.Repository\EasyUp.Repository.csproj">
+      <Project>{309D1A1D-39D1-47B7-AE96-F180D6971F08}</Project>
+      <Name>EasyUp.Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

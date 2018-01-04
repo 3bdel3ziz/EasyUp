@@ -53,3 +53,8 @@ E:\GitHub\EasyUp\EasyUp.Api\bin\EasyUp.Core.pdb
 E:\GitHub\EasyUp\EasyUp.Api\bin\EasyUp.Core.dll.config
 E:\GitHub\EasyUp\EasyUp.Api\bin\EntityFramework.xml
 E:\GitHub\EasyUp\EasyUp.Api\bin\EntityFramework.SqlServer.xml
+E:\GitHub\EasyUp\EasyUp.Api\bin\EasyUp.IRepository.dll
+E:\GitHub\EasyUp\EasyUp.Api\bin\EasyUp.Repository.dll
+E:\GitHub\EasyUp\EasyUp.Api\bin\EasyUp.IRepository.pdb
+E:\GitHub\EasyUp\EasyUp.Api\bin\EasyUp.Repository.pdb
+E:\GitHub\EasyUp\EasyUp.Api\bin\EasyUp.Repository.dll.config

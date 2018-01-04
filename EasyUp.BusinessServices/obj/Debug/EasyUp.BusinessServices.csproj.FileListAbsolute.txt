@@ -1,0 +1,17 @@
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EasyUp.BusinessServices.dll
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EasyUp.BusinessServices.pdb
+E:\GitHub\EasyUp\EasyUp.BusinessServices\obj\Debug\EasyUp.BusinessServices.csprojResolveAssemblyReference.cache
+E:\GitHub\EasyUp\EasyUp.BusinessServices\obj\Debug\EasyUp.BusinessServices.csproj.CoreCompileInputs.cache
+E:\GitHub\EasyUp\EasyUp.BusinessServices\obj\Debug\EasyUp.BusinessServices.dll
+E:\GitHub\EasyUp\EasyUp.BusinessServices\obj\Debug\EasyUp.BusinessServices.pdb
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\AutoMapper.dll
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EasyUp.Core.dll
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EntityFramework.dll
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EasyUp.Core.pdb
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EasyUp.Core.dll.config
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\AutoMapper.xml
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EntityFramework.xml
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EasyUp.BusinessEntity.dll
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EasyUp.IBusinessServices.dll
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EasyUp.BusinessEntity.pdb
+E:\GitHub\EasyUp\EasyUp.BusinessServices\bin\Debug\EasyUp.IBusinessServices.pdb

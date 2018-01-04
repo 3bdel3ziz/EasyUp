@@ -1,0 +1,16 @@
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EasyUp.Repository.dll.config
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EasyUp.Repository.dll
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EasyUp.Repository.pdb
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EasyUp.Core.dll
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EasyUp.IRepository.dll
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EntityFramework.dll
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EasyUp.Core.pdb
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EasyUp.Core.dll.config
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EasyUp.IRepository.pdb
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EntityFramework.xml
+E:\GitHub\EasyUp\EasyUp.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\EasyUp\EasyUp.Repository\obj\Debug\EasyUp.Repository.csprojResolveAssemblyReference.cache
+E:\GitHub\EasyUp\EasyUp.Repository\obj\Debug\EasyUp.Repository.csproj.CoreCompileInputs.cache
+E:\GitHub\EasyUp\EasyUp.Repository\obj\Debug\EasyUp.Repository.dll
+E:\GitHub\EasyUp\EasyUp.Repository\obj\Debug\EasyUp.Repository.pdb
